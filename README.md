@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karimelsayed93
-- 👀 I’m interested in being a data scientist
+- 👀Switched my focus to Java programming and fell in love with it
 - 🌱 I’m currently doing my masters degree in Artificial intelligence 
-- 💞️ I’m looking to collaborate on new projects with focus on data science / time series analysis
+- 💞️ I’m looking to collaborate on new projects with focus on Java backend development
 - 📫 How to reach me karimelsayed93@gmail.com 
 
 <!---
